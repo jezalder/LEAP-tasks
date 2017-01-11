@@ -1,0 +1,171 @@
+/*
+ * Base structure
+ */
+
+ body {
+   font-size: 16px;
+ }
+
+.container {
+  width: 1100px !important;
+}
+
+.navbar-header a img {
+    width: 146px;
+    height: 30px;
+}
+
+.navbar-default {
+    background-color: #f8f8f8;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.navbar-brand {
+    height: 66px;
+    margin-top: 6px;
+}
+
+.row2j {
+  margin-top: 23px;
+}
+
+.navbar-right {
+    float: right!important;
+    margin-top: 12px;
+    margin-right: 0;
+}
+
+.nav-sidebar > .active > a, .nav-sidebar > .active > a:hover, .nav-sidebar > .active > a:focus {
+    color: #fff;
+    background-color: #23a9e1;
+}
+
+a {
+    color: #2399c1;
+}
+
+.btn-danger {
+    margin-top: 18px;
+}
+
+.meanscore {
+  margin-right: 100px;
+}
+
+.jumbotron {
+  padding:15px 25px 5px 25px!important;
+  margin-top:20px;
+  margin-bottom: 20px;
+}
+
+.jumbotron p {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.queryq {
+  font-weight: 400;
+  font-style: italic;
+  padding: 5px;
+}
+
+.well {
+  margin: 20px;
+}
+
+.table {
+  margin-bottom: 10px;
+}
+
+.alert {
+  margin-bottom:0;
+}
+
+.pagetop {
+  margin-top: 20px;
+}
+
+.nav-sidebar {
+  margin-top: 20px;
+  margin-right: 30px;
+}
+
+.sidebar2 {
+    position: fixed;
+    width: 332px;
+}
+
+.rightpane {
+  float: right;
+}
+
+.btn-pad {
+  margin: 10px;
+}
+
+li.leaptitle {
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 13px;
+}
+
+.well {
+  border: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+.homewell {
+  margin: 40px auto 0 auto;
+  padding: 40px 50px 50px 50px;
+  background-color: #f5f5f5;
+  border: 0;
+  border-radius: 4px;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  text-align: center;
+}
+
+.homewell p {
+  font-size: 18px;
+  font-weight: 400;
+  margin: 0 0 30px 0;
+  padding: 0;
+}
+
+.homewell a {
+  white-space: normal;
+}
+
+.panel-title a {
+  color: #23a9e1;
+}
+
+.chartgallery {
+    padding: 20px 20px 0 20px;
+}
+
+.modal-dialog {
+  width:700px;
+}
+
+.modal-body {
+  padding-bottom: 90px;
+}
+
+.thumbnail {
+  padding: 0;
+}
+
+.caption {
+    position:absolute;
+    bottom:0;
+    right:0;
+    background:rgba(31, 37, 50, 0.50);
+    margin:20px 15px;
+    border-radius: 4px;
+    display: none;
+    text-align:center;
+    color:#fff !important;
+    z-index:2;
+}
